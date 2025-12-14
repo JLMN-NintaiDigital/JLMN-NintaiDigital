@@ -42,21 +42,21 @@ Bienvenido a mi perfil profesional en GitHub. 🚀
 
 <!-- Proyecto Gimnasio -->
 <a href="https://github.com/JLMN-NintaiDigital/proyecto-gim">
-  <img src="images/GIM.png" alt="Proyecto Gimnasio" width="150" style="border-radius:8px;"/>
+  <img src="imagenes/GIM.png" alt="Proyecto Gimnasio" width="150" style="border-radius:8px;"/>
   <br>Web de gimnasio • HTML, JavaScript, php, sql, mysql, tailwind css.
   <br>![Visitas](https://visitor-badge.laobi.icu/badge?page_id=JLMN-NintaiDigital.proyecto-gim)
 </a>
 
 <!-- Proyecto ERP -->
 <a href="https://github.com/JLMN-NintaiDigital/proyecto-erp">
-  <img src="images/ERP-360.png" alt="Proyecto ERP" width="150" style="border-radius:8px;"/>
+  <img src="imagenes/ERP-360.png" alt="Proyecto ERP" width="150" style="border-radius:8px;"/>
   <br>ERP personalizado • php , html, css, javascrip, sql, mysql.
   <br>![Visitas](https://visitor-badge.laobi.icu/badge?page_id=JLMN-NintaiDigital.proyecto-erp)
 </a>
 
 <!-- Proyecto Peluquería -->
 <a href="https://github.com/JLMN-NintaiDigital/proyecto-peluqueria">
-  <img src="images/PELÚ.png" alt="Proyecto Peluquería" width="150" style="border-radius:8px;"/>
+  <img src="imagenes/PELÚ.png" alt="Proyecto Peluquería" width="150" style="border-radius:8px;"/>
   <br>Web de peluquería • PHP, javascript, Bootstrap css, html, sql, mysql.
   <br>![Visitas](https://visitor-badge.laobi.icu/badge?page_id=JLMN-NintaiDigital.proyecto-peluqueria)
 </a>
