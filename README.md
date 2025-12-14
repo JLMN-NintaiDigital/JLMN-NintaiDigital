@@ -24,10 +24,10 @@ Bienvenido a mi perfil profesional en GitHub. 🚀
 ---
 
 ## 💻 Qué creo
-- Webs con **paneles de administración**  
-- **ERPs** con paneles admin personalizados  
-- **Despliegues** de proyectos y mantenimiento continuo  
-
+- Webs completas con **paneles de administración**  
+- Software de **ERPs y CRMs** con paneles personalizados  
+- **Despliegues**, mantenimiento y actualización de webs y sistemas existentes  
+  
 ---
 
 ## 📊 Mis proyectos destacados
