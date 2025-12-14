@@ -41,7 +41,8 @@ Bienvenido a mi perfil profesional en GitHub. 🚀
 ---
 
 ## ✨ Sobre mí
-Apasionado por la innovación y la mejora constante. Me gusta superar retos y ofrecer siempre la máxima calidad en cada proyecto.
+Apasionado por la innovación y la mejora constante, siempre busco superar retos y ofrecer la máxima calidad en cada proyecto. Mi objetivo es colaborar con autónomos y pequeñas o medianas empresas que necesiten un aporte sólido de conocimientos tecnológicos. Tras completar mi formación como DAW y desarrollador, estoy enfocado en seguir ampliando mis competencias hacia **ASIR y administración de sistemas en red**, aportando valor tanto en desarrollo como en gestión y mantenimiento de infraestructuras.
+
 
 ---
 
