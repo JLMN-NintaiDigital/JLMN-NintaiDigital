@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # 👋 Hola, soy José Luis Molano Navarro
 
 Bienvenido a mi perfil profesional en GitHub. 🚀
