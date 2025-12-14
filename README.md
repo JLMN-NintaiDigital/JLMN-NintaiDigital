@@ -1,7 +1,9 @@
 # 👋 Hola, soy José Luis Molano Navarro
 
-Bienvenido a mi perfil profesional en GitHub. 🚀
+Bienvenido a mi perfil profesional en GitHub. 🚀  
+
 ![Visitas totales](https://visitor-badge.laobi.icu/badge?page_id=JLMN-NintaiDigital.readme)
+
 
 🌐 Página: **3w.NintaiDigital.com (en construcción)**  
 💼 Profesión: Desarrollador Full Stack / Emprendedor  
@@ -41,7 +43,8 @@ Bienvenido a mi perfil profesional en GitHub. 🚀
 
 | Proyecto Gimnasio | ERP Personalizado | Proyecto Peluquería |
 |------------------|-----------------|--------------------|
-| [<img src="imagenes/GIM.png" alt="Gimnasio" width="150"/>](imagenes/GIM.png) <br>**Web de Gimnasio**<br>PHP, CSS, HTML, JavaScript, SQL, MySQL<br>Panel de Administrador<br>![Visitas](https://visitor-badge.laobi.icu/badge?page_id=JLMN-NintaiDigital.proyecto-gim) | [<img src="imagenes/ERP-360.png" alt="ERP" width="150"/>](imagenes/ERP-360.png) <br>**ERP Personalizado**<br>PHP, HTML, CSS, JavaScript, SQL, MySQL<br>Panel de Administrador<br>![Visitas](https://visitor-badge.laobi.icu/badge?page_id=JLMN-NintaiDigital.proyecto-erp) | [<img src="imagenes/PELU.png" alt="Peluquería" width="150"/>](imagenes/PELU.png) <br>**Web de Peluquería**<br>PHP, JavaScript, Bootstrap, CSS, HTML, SQL, MySQL<br>Panel de Administrador<br>![Visitas](https://visitor-badge.laobi.icu/badge?page_id=JLMN-NintaiDigital.proyecto-peluqueria) |
+| [<img src="imagenes/GIM.png" alt="Gimnasio" width="150"/>](imagenes/GIM.png) <br>**Web de Gimnasio**<br>PHP, CSS, HTML, JavaScript, SQL, MySQL<br>Panel de Administrador | [<img src="imagenes/ERP-360.png" alt="ERP" width="150"/>](imagenes/ERP-360.png) <br>**ERP Personalizado**<br>PHP, HTML, CSS, JavaScript, SQL, MySQL<br>Panel de Administrador | [<img src="imagenes/PELU.png" alt="Peluquería" width="150"/>](imagenes/PELU.png) <br>**Web de Peluquería**<br>PHP, JavaScript, Bootstrap, CSS, HTML, SQL, MySQL<br>Panel de Administrador |
+
 
 
 ---
