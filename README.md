@@ -40,7 +40,7 @@ Bienvenido a mi perfil profesional en GitHub. 🚀
 
 | Proyecto Gimnasio | ERP Personalizado | Proyecto Peluquería |
 |------------------|-----------------|--------------------|
-| <a href="imagenes/GIM.png"><img src="imagenes/GIM.png" alt="Gimnasio" width="150"/></a> <br>**Web de Gimnasio**<br>PHP, CSS, HTML, JavaScript, SQL, MySQL<br>Panel de Administración | <a href="imagenes/ERP-360.png"><img src="imagenes/ERP-360.png" alt="ERP" width="150"/></a> <br>**ERP Personalizado**<br>PHP, HTML, CSS, JavaScript, SQL, MySQL<br>Panel de Administración | <a href="imagenes/PELU.png"><img src="imagenes/PELU.png" alt="Peluquería" width="150"/></a> <br>**Web de Peluquería**<br>PHP, JavaScript, Bootstrap, CSS, HTML, SQL, MySQL<br>Panel de Administración |
+| <a href="imagenes/GIM.png"><img src="imagenes/GIM.png" alt="Gimnasio" width="150"/></a> <br>**Web de Gimnasio**<br>PHP, CSS, HTML, JavaScript, SQL, MySQL<br>Administración/personalización | <a href="imagenes/ERP-360.png"><img src="imagenes/ERP-360.png" alt="ERP" width="150"/></a> <br>**ERP Personalizado**<br>PHP, HTML, CSS, JavaScript, SQL, MySQL<br>Administración/personalización  | <a href="imagenes/PELU.png"><img src="imagenes/PELU.png" alt="Peluquería" width="150"/></a> <br>**Web de Peluquería**<br>PHP, JavaScript, Bootstrap, CSS, HTML, SQL, MySQL<br>Panel de Administración/personalización |
 
 ---
 
