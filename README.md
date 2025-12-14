@@ -41,7 +41,7 @@ Bienvenido a mi perfil profesional en GitHub. 🚀
 
 | Proyecto Gimnasio | ERP Personalizado | Proyecto Peluquería |
 |------------------|-----------------|--------------------|
-| <a href="imagenes/GIM.png"><img src="imagenes/GIM.png" alt="Gimnasio" width="150"/></a> <br>**Web de Gimnasio**<br>PHP, CSS, HTML, JavaScript, SQL, MySQL<br>Panel de Administrador| <a href="imagenes/ERP-360.png"><img src="imagenes/ERP-360.png" alt="ERP" width="150"/></a> <br>**ERP Personalizado**<br>PHP, HTML, CSS, JavaScript, SQL, MySQL<br>Panel de Administrador| <a href="imagenes/PELU.png"><img src="imagenes/PELU.png" alt="Peluquería" width="150"/></a> <br>**Web de Peluquería**<br>PHP, JavaScript, Bootstrap, CSS, HTML, SQL, MySQL<br>Panel de Administrador |
+| [<img src="imagenes/GIM.png" alt="Gimnasio" width="150"/>](imagenes/GIM.png) <br>**Web de Gimnasio**<br>PHP, CSS, HTML, JavaScript, SQL, MySQL<br>Panel de Administrador<br>![Visitas](https://visitor-badge.laobi.icu/badge?page_id=JLMN-NintaiDigital.proyecto-gim) | [<img src="imagenes/ERP-360.png" alt="ERP" width="150"/>](imagenes/ERP-360.png) <br>**ERP Personalizado**<br>PHP, HTML, CSS, JavaScript, SQL, MySQL<br>Panel de Administrador<br>![Visitas](https://visitor-badge.laobi.icu/badge?page_id=JLMN-NintaiDigital.proyecto-erp) | [<img src="imagenes/PELU.png" alt="Peluquería" width="150"/>](imagenes/PELÚ.png) <br>**Web de Peluquería**<br>PHP, JavaScript, Bootstrap, CSS, HTML, SQL, MySQL<br>Panel de Administrador<br>![Visitas](https://visitor-badge.laobi.icu/badge?page_id=JLMN-NintaiDigital.proyecto-peluqueria) |
 
 ---
 
