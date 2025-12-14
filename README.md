@@ -2,7 +2,7 @@
 
 Bienvenido a mi perfil profesional en GitHub. 🚀
 
-🌐 Página: **NintaiDigital (en construcción)**  
+🌐 Página: **3w.NintaiDigital.com (en construcción)**  
 💼 Profesión: Desarrollador Full Stack / Emprendedor  
 🏆 Objetivo: Crear soluciones digitales de alto impacto
 
