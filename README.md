@@ -18,7 +18,7 @@ Bienvenido a mi perfil profesional en GitHub. 🚀
 
 
 -Experimentando ahora con:
-![Ollama](https://img.shields.io/badge/Ollama-IA_Local-000000?style=for-the-badge)
+<br>![Ollama](https://img.shields.io/badge/Ollama-IA_Local-000000?style=for-the-badge)<br>
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
