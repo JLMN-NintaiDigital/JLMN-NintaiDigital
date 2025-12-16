@@ -37,9 +37,10 @@ Bienvenido a mi perfil profesional en GitHub. 🚀
 
 ## 📊 Mis proyectos destacados
 
-| web Gimnasio | ERP Personalizado | web Peluquería |
-|------------------|-----------------|--------------------|
-| [<img src="imagenes/GIM.png" alt="Gimnasio" width="150"/>](imagenes/GIM.png) <br>**Web Gimnasio**<br>Panel de administración para gestión interna  | [<img src="imagenes/ERP-360.png" alt="ERP" width="150"/>](imagenes/ERP-360.png) <br>**ERP Personalizado**<br>Panel de administración para gestión interna  | [<img src="imagenes/PELU.png" alt="Peluquería" width="150"/>](imagenes/PELU.png) <br>**Web Peluquería**<br>Panel de administración para gestión interna |
+| Web Gimnasio | ERP Personalizado | Web Peluquería |
+|-------------|------------------|----------------|
+| [<img src="imagenes/GIM.png" alt="Gimnasio" width="150"/>](imagenes/GIM.png) <br>**Web Gimnasio**<br>Panel de administración para gestión interna | [<img src="imagenes/ERP-360.png" alt="ERP" width="150"/>](imagenes/ERP-360.png) <br>**ERP Personalizado**<br>Panel de administración para gestión interna | [<img src="imagenes/PELU.png" alt="Peluquería" width="150"/>](imagenes/PELU.png) <br>**Web Peluquería**<br>Panel de administración para gestión interna |
+
 
 
 
