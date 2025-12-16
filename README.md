@@ -5,7 +5,7 @@ Bienvenido a mi perfil profesional en GitHub. 🚀
 ![Visitas totales](https://visitor-badge.laobi.icu/badge?page_id=JLMN-NintaiDigital.readme)
 
 
-🌐 Página: **3w.NintaiDigital.com (en construcción)**  
+🌐 Página: **www.NintaiDigital.com (en construcción)**  
 💼 Profesión: Desarrollador Full Stack / Emprendedor  
 🏆 Objetivo: Diseñar y desarrollar soluciones digitales de alto impacto en **web y software**
 
