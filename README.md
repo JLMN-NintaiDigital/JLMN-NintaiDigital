@@ -2,7 +2,7 @@
 
 Bienvenido a mi perfil profesional en GitHub. 🚀  
 
-![Visitas totales](https://visitor-badge.laobi.icu/badge?page_id=JLMN-NintaiDigital.readme)
+👀 Visitas al perfil: ![Visitas totales](https://visitor-badge.laobi.icu/badge?page_id=JLMN-NintaiDigital.readme)
 
 
 🌐 Página: **www.NintaiDigital.com (en construcción)**  
@@ -21,7 +21,7 @@ Bienvenido a mi perfil profesional en GitHub. 🚀
 
 
 ### 🧪 En exploración
-<br>![Ollama](https://img.shields.io/badge/Ollama-IA_Local-000000?style=for-the-badge)<br>
+![Ollama](https://img.shields.io/badge/Ollama-IA_Local-000000?style=for-the-badge)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
@@ -37,9 +37,9 @@ Bienvenido a mi perfil profesional en GitHub. 🚀
 
 ## 📊 Mis proyectos destacados
 
-| Proyecto Gimnasio | ERP Personalizado | Proyecto Peluquería |
+| web Gimnasio | ERP Personalizado | web Peluquería |
 |------------------|-----------------|--------------------|
-| [<img src="imagenes/GIM.png" alt="Gimnasio" width="150"/>](imagenes/GIM.png) <br>**Web de Gimnasio**<br>PHP, CSS, HTML, JavaScript, SQL, MySQL<br>Panel de Administrador | [<img src="imagenes/ERP-360.png" alt="ERP" width="150"/>](imagenes/ERP-360.png) <br>**ERP Personalizado**<br>PHP, HTML, CSS, JavaScript, SQL, MySQL<br>Panel de Administrador | [<img src="imagenes/PELU.png" alt="Peluquería" width="150"/>](imagenes/PELU.png) <br>**Web de Peluquería**<br>PHP, JavaScript, Bootstrap, CSS, HTML, SQL, MySQL<br>Panel de Administrador |
+| [<img src="imagenes/GIM.png" alt="Gimnasio" width="150"/>](imagenes/GIM.png) <br>**Web Gimnasio**<br>Panel de administración para gestión interna  | [<img src="imagenes/ERP-360.png" alt="ERP" width="150"/>](imagenes/ERP-360.png) <br>**ERP Personalizado**<br>Panel de administración para gestión interna  | [<img src="imagenes/PELU.png" alt="Peluquería" width="150"/>](imagenes/PELU.png) <br>**Web Peluquería**<br>Panel de administración para gestión interna |
 
 
 
@@ -50,6 +50,7 @@ Apasionado por la innovación y la mejora constante, siempre busco superar retos
 
 
 ---
+> Interesado en colaborar en proyectos reales, soluciones a medida o desarrollo de sistemas internos escalables.
 
 ## 📫 Contacto
 - Email: [jlmn85@outlook.es](mailto:jlmn85@outlook.es)
